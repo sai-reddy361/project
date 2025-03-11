@@ -203,7 +203,7 @@ export function SiteHeader() {
           className="mr-6 px-0 font-bold text-xl text-primary"
           onClick={() => handleNavigation("/")}
         >
-          FINVIA
+          SHOPNEXT
         </Button>
 
         <div className="hidden md:flex items-center space-x-4 lg:space-x-6">
