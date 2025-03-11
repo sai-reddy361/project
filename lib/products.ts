@@ -17,7 +17,7 @@ export const products: Product[] = [
     name: "Classic White T-Shirt",
     description: "Essential cotton t-shirt in classic white",
     price: 19.99,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://thehouseofrare.com/cdn/shop/files/FACEWHITE04743_765x.jpg?v=1738907852",
     category: "mens-clothing",
     isTopSeller: true,
   },

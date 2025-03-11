@@ -1,4 +1,4 @@
-import { SiteHeader } from "@/components/site-header"
+import { SiteHeader } from "@/components/site-header";
 import { ProductCard } from "@/components/product-card"
 import { getTopSellers, getSaleProducts } from "@/lib/products"
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
@@ -7,7 +7,7 @@ import Link from "next/link"
 
 const categories = [
   {
-    name: "Men's Clothing",
+    name: "Sandeep clothing",
     href: "/category/mens-clothing",
     icon: ShirtIcon,
     description: "Explore our collection of men's fashion",
