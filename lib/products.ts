@@ -14,10 +14,10 @@ export interface Product {
 export const products: Product[] = [
   {
     id: "1",
-    name: "Classic White T-Shirt",
+    name: "Classic White ",
     description: "Essential cotton t-shirt in classic white",
     price: 19.99,
-    image: "https://thehouseofrare.com/cdn/shop/files/FACEWHITE04743_765x.jpg?v=1738907852",
+    image: "https://nobero.com/cdn/shop/files/white_855177b5-5621-4a4b-a0d1-9060b89a6a69.jpg?v=1711979035",
     category: "mens-clothing",
     isTopSeller: true,
   },
