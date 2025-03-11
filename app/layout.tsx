@@ -11,7 +11,7 @@ import type React from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "FINVIA Shopping Store",
+  title: "SHOPNEXT Shopping Store",
   description: "Your one-stop shop for all your needs",
     generator: 'v0.dev'
 }

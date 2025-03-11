@@ -7,7 +7,7 @@ import Link from "next/link"
 
 const categories = [
   {
-    name: "Sandeep clothing",
+    name: "Men's Clothing",
     href: "/category/mens-clothing",
     icon: ShirtIcon,
     description: "Explore our collection of men's fashion",
@@ -51,7 +51,7 @@ export default function Home() {
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter text-white sm:text-4xl md:text-5xl lg:text-6xl/none">
-                  Welcome to FINVIA Store
+                  Welcome to SHOPNEXT Store
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-300 md:text-xl">
                   Discover our latest collection of premium products at amazing prices.
@@ -108,7 +108,7 @@ export default function Home() {
         <div className="container flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
           <div className="flex flex-1 items-center justify-end space-x-4">
             <nav className="flex items-center space-x-1">
-              <p className="text-sm text-muted-foreground">© 2024 FINVIA Store. All rights reserved.</p>
+              <p className="text-sm text-muted-foreground">© 2025 SHOPNEXT Store. All rights reserved.</p>
             </nav>
           </div>
         </div>
